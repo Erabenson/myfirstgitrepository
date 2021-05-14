@@ -1,0 +1,17 @@
+#!/bin/bash
+
+a= `hostname`
+echo
+echo "what is your name?"
+read b
+echo
+echo "what is your profession?"
+read c
+echo
+echo "what is your favorite TV show?"
+read d
+echo
+echo "Hello $b"
+echo "Your proffession $c is awesome"
+echo "$d is a good show"
+echo
