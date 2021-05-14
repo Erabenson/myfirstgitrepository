@@ -15,3 +15,5 @@ echo "Hello $b"
 echo "Your proffession $c is awesome"
 echo "$d is a good show"
 echo
+echo
+echo
